@@ -1,0 +1,16 @@
+{
+  "name": "@fluent-vue/nuxt2-build-module",
+  "version": "0.0.1",
+  "description": "Nuxt build module for fluent-vue",
+  "scripts": {
+  },
+  "files": [
+    "lib",
+    "README.md"
+  ],
+  "main": "lib/index.js",
+  "dependencies": {
+    "fluent-vue-loader": "^3.0.0",
+    "raw-loader": "^4.0.2"
+  }
+}
