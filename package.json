@@ -16,6 +16,11 @@
     "type": "git",
     "url": "git+https://github.com/fluent-vue/nuxt2-build-module.git"
   },
+  "author": {
+    "email": "ivan.demchuk@gmail.com",
+    "name": "Ivan Demchuk",
+    "url": "https://demivan.me/"
+  },
   "scripts": {
   },
   "files": [
