@@ -2,6 +2,20 @@
   "name": "@fluent-vue/nuxt2-build-module",
   "version": "0.0.1",
   "description": "Nuxt build module for fluent-vue",
+  "keywords": [
+    "vue",
+    "vuejs",
+    "nuxt",
+    "nuxt-module",
+    "javascript",
+    "fluent-vue",
+    "i18n"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fluent-vue/nuxt2-build-module.git"
+  },
   "scripts": {
   },
   "files": [
