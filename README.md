@@ -10,7 +10,7 @@ This is [fluent-vue](https://github.com/demivan/fluent-vue) build module for Nux
 
 > NOTE: When using v-t directive with v-bind directive, make sure to write v-t directive second. v-bind will clear all attributes added by v-t directive otherwise. This is a limitation of Vue 2 compiler.
 
-## Instalation
+## Installation
 
 Add this module to your dev dependencies:
 
