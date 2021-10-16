@@ -1,6 +1,6 @@
 {
   "name": "@fluent-vue/nuxt2-build-module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Nuxt build module for fluent-vue",
   "keywords": [
     "vue",
