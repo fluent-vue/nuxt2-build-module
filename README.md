@@ -1,3 +1,7 @@
+# ⚠ DEPRECATED ⚠
+
+**Funtionatily was moved to [unplugin-fluent-vue](https://github.com/fluent-vue/unplugin-fluent-vue)**
+
 # @fluent-vue/nuxt2-build-module
 
 This is [fluent-vue](https://github.com/demivan/fluent-vue) build module for Nuxt 2.
